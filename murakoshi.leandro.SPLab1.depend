@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1625662613 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\controller.c
+	"controller.h"
+
+1625629417 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"inputs_lean.h"
+	"parser.h"
+	"pais.h"
+
+1625620185 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\linkedlist.h
+
+1625615294 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\inputs_lean.h
+
+1625616012 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
+1625660891 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\pais.h
+
+1623706730 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\inputs_lean.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs_lean.h"
+
+1625661971 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625664696 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs_lean.h"
+	"LinkedList.h"
+	"pais.h"
+	"controller.h"
+	"informes.h"
+
+1625660402 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+	"LinkedList.h"
+
+1625659805 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+
+1625619834 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\parser.c
+	"parser.h"
+
+1625663574 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.splab1\informes.c
+	"informes.h"
+
